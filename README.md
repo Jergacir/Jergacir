@@ -13,7 +13,7 @@
 </div>
 
 - 👨‍💻 Futuro Ingeniero de Sistemas y Computación.
-- 🎓 Actualmente en el 6° ciclo de la carrera, creciendo día a día.
+- 🎓 Actualmente en el 7° ciclo de la carrera, creciendo día a día.
 - 💻 Apasionado por la programación y el desarrollo de software.
 - 🚀 Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.
 - 🎬 Cuando no estoy programando, me gusta ver películas o series, salir en familia o con amigos y jugar videojuegos o fútbol.
