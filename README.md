@@ -24,6 +24,9 @@
   <a href="https://www.instagram.com/_jrm.grc_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
+  <a href="https://www.linkedin.com/in/jeremy-garcía-ñañez">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <a href="mailto:garciajeremy0710@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
