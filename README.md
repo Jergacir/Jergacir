@@ -13,7 +13,7 @@
 </div>
 
 - 👨‍💻 Futuro Ingeniero de Sistemas y Computación.
-- 🎓 Actualmente en el 7° ciclo de la carrera, creciendo día a día.
+- 🎓 Actualmente en el 8° ciclo de la carrera, creciendo día a día.
 - 💻 Apasionado por la programación y el desarrollo de software.
 - 🚀 Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.
 - 🎬 Cuando no estoy programando, me gusta ver películas o series, salir en familia o con amigos y jugar videojuegos o fútbol.
@@ -55,6 +55,9 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 
 ## 🎨 &nbsp;Diseño
@@ -67,7 +70,9 @@
 ## 🗃 &nbsp;Base de Datos
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-%233982CE.svg?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
 ## 🧰 &nbsp;Control de Versiones & Herramientas 
